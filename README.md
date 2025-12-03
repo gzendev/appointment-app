@@ -20,7 +20,7 @@ App for scheduling medical appointments with FHIR compliance. Includes a respons
 
 ```bash
 # Clone or navigate to the project
-cd fhir-appointment-manager
+cd appointment-app
 
 # Start both frontend and backend
 docker-compose up --build
